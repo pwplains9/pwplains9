@@ -1,21 +1,24 @@
 ### Hi there 👋, My name is Alex
 #### I am Frontend developer
-My favorite tools for web development are Vue.js, and some times use Svelte. I also prefer more preprocessors and optimization- plugins \ hack for quick works. I easily build web applications using Vue.js (or even Nuxt.js). I really do enjoy working on accessibility, keeping up with latest web standards and practicing them. Of course all of this wrapped in enjoyable environment (VCS, tests, documentation or agreements).
+🌟 Welcome to My GitHub Universe! 🌟
 
-From not mentioned above I also use or had experienced with:
-Vite, Rollup, Webpack and other building tools
-PostCSS and other common libraries & tools
-Stylus, CoffeeScript, Pug and other additional languages
+Hello there! I'm a passionate Frontend Developer with a knack for crafting immersive digital experiences. My expertise spans across a diverse tech stack, including Vue.js, React.js, Vite, WebSockets, Pinia, and more. I specialize in building Vue mini apps, React mini apps, and creating stunning interactive games and sites using Three.js and WebGL. I'm also diving deep into the world of Web3.0, exploring the future of decentralized applications.
 
-Other not so really important skills but also worthy of mention:
-Three.js(WebGL), Regex, SVG, BEM.
-Also I speak English at the intermediate level and to use on the technical side and daily communication.
-Near future I want to raise my architecture skills and deep dive into typescript.
+🚀 What I Bring to the Table:
 
-Skills: Vue.js \\ Nuxt \\ Svelte \\ Three.js
+Mentorship & Leadership: I've guided and mentored teams, fostering collaboration and growth.
 
-- 🔭 I’m currently working on Crypto-service 
-- 🌱 I’m currently learning Svelte \\ kubernetes 
+CRM Development: Developed user-friendly interfaces for CRM systems using Vue.js.
+
+Project Management: Streamlined workflows, task allocation, and project planning to ensure seamless execution.
+
+Financial Reporting: Contributed to the development of comprehensive banking reports for investors.
+
+Developer Ecosystem: Built and maintained developer ecosystems, ensuring smooth builds and deployments.
+
+💡 Current Focus:
+I'm currently assembling a dream team to spearhead Web3.0 projects, focusing on interactive websites with AI integration and crypto functionalities. If you're as excited about the future of the web as I am, let's connect and build something extraordinary together!
+
 - 📫 How to reach me: byalexdesign@gmail.com 
 
 
