@@ -1,6 +1,6 @@
-## Alex Li — Frontend Team Lead
+## Alex Li — Frontend Developer
 
-Frontend Team Lead with 5+ years of experience. I build clean, scalable web apps focused on performance, UX, and maintainable architecture.
+Frontend Developer with 5+ years of experience. I build clean, scalable web apps focused on performance, UX, and maintainable architecture.
 
 ### Tech stack
 - HTML, SCSS, Pug
