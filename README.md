@@ -14,6 +14,7 @@ Core stack: **Vue 3 · Nuxt · TypeScript**.
 - Create interactive 3D experiences with Three.js / WebGL
 - Ship cross-platform apps with Capacitor (iOS + Android)
 - Integrate headless CMS: WordPress, Sanity
+- Build Shopify stores from a custom design (Dawn / Online Store 2.0, Liquid)
 - Publish reusable tooling as NPM modules
 
 ---
@@ -44,6 +45,9 @@ WebSockets · Capacitor (iOS / Android)
 
 **CMS**  
 WordPress · Sanity
+
+**E-commerce**  
+Shopify · Dawn / Online Store 2.0 · Liquid
 
 **3D & motion**  
 Three.js · WebGL · GSAP
